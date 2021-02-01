@@ -1,2 +1,4 @@
 tmp/TODO.txt
 tmp/*
+*.txt
+*.stackdump
