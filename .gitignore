@@ -1,3 +1,5 @@
 tmp/TODO.txt
 tmp/*
 *.xml
+*.txt
+*.stackdump
